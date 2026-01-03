@@ -48,3 +48,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  Setup Root Password. This installs a database for this computer (osticket).
    <br/>
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/MYSQL%20rootx2.PNG" height="80%" width="80%"/>
+ <br/>
+  The minimum requirements are now met for installation.
+ <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/osTicket%20installed.PNG" height="80%" width="80%"/>
