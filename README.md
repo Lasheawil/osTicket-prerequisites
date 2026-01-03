@@ -69,5 +69,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/ost-config%20permissions.PNG" height="80%" width="80%"/>
    
    <p align="center">
-    Install HeidiSQL. Continued setting up osticket in the browser
+    Install HeidiSQL. 
+    <br/>
 <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/HeidiSQLconnect.PNG" height="80%" width="80%"/>
+
+
+ <p align="center">
+  Continue setting up osticket in the browser. After completetion, you will get a popup explaining successful installation.
+  <br/>
+<img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/osTicket%20installed%20END.PNG" height="80%" width="80%"/>
+
+<p align="center">
+ When installation has been completed, log into osTicket.
+ <br/>
+  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/osTicket%20system.PNG" height="80%" width="80%"/>
