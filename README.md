@@ -57,3 +57,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
         <p align="center">
   The minimum requirements are now met for installation.
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/osTicket%20installed.PNG" height="80%" width="80%"/>
+
+ <p align="center">
+ Go back to IIS > Sites > Default > osTicket, Double-click PHP Manager. Enable the following extensions: php_imap.dll, php_intl.dll, php_opcache.dll. Assign Permissions: ost-cofig.php, Downloaded and installed HeidiSQL, continued setting up osticket in the browser
+ <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/PHP%20extension%20enable.PNG" height="80%" width="80%"/>
