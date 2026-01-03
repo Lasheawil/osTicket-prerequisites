@@ -39,15 +39,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <p align="center">
  Install my SQL > Typical.
    <br/>
+   <p align="center">
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/MYSQL%20set%20up%20type.PNG" height="80%" width="80%"/>
  <br/>
+    <p align="center">
  Then launch the configuration Wizard (after install) > Standard Configuration.
-  <br/> 
+  <br/>
+     <p align="center">
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/MYSQL%20standard%20config.PNG" height="80%" width="80%"/>
    <br/>
+      <p align="center">
  Setup Root Password. This installs a database for this computer (osticket).
    <br/>
+       <p align="center">
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/MYSQL%20rootx2.PNG" height="80%" width="80%"/>
  <br/>
+        <p align="center">
   The minimum requirements are now met for installation.
  <img src="https://github.com/Lasheawil/osTicket-prerequisites/blob/main/PrereqFiles/osTicket%20installed.PNG" height="80%" width="80%"/>
